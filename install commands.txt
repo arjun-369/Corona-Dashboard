@@ -1,0 +1,12 @@
+npm init
+npm install express
+~~~~~~~~~~~~
+npm install ejs
+npm install mongodb@3.6.6
+
+~~~~~~~~~~~~
+
+go through the codelabs site for the project
+
+
+ kmitmicroprojects@gmail.com
